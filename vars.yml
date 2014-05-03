@@ -1,11 +1,11 @@
 # Variables to control the provisioning process.
 ---
-username: ash
-github_user: smashwilson
-git_name: Ash Wilson
-git_email: smashwilson@gmail.com
+username: rgbkrk
+github_user: rgbkrk
+git_name: Kyle Kelley
+git_email: rgbkrk@gmail.com
 ssh_keys:
-  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/Me0j1Z2VFBz4Gl+fyySNWVFFj0WstyisB2Jr2N8AoFTVFKZu31DNPm1+Jy24RgNQtxsN0MgRTsSXfCiolRPZ4zzSnifE0Swha9Zuyw8bnDmlqq7jNxIBXgRjGIpw5QXCesSjH/O9t6RGntQUVeMca/0hc59vvQe0viqDCRlnDH7w8vOQ7XOeEjEMTa2s84bbJ452KB5e+tZJemngTGu9LvmFZvSE7VDFf21oKk/5xR4eVSouxqD1TNVHPU2fGtR+AEzof4r2exma1+64k6vJHpDIzd1xPqBaS6qmAcr3mD24tvENkJH0p90Ndk0rIRI/1f5XHwui2aaUyfKlxp2f @tiger
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRkGTt3IW4snceuvep4scqRPx1IHPd7pRblLb611mcBb5Yo12jjp6vnyEhvxrSY85HVDXK4q7voeG1zTwAmeD7iJ2WeXi5a42UclVBcTxG1QePrFvv9NcZlNz39J9utfs8Hf+RPbMpa0FWw9+0Q9X8SPaQkmUQKnlBm29lYS7S/DWfowF0vu6jOaFJHECIgSA4WbudjVQyDTNvzcffdocMc1z5YaGSDuslK7OafZA1aDRWghU1vNUcP2ZN0h3JfGt56WauukJU19ZNuuIl25EgPuPTFLlq11Agp3p5cVpfo+Fym9ghCzzavxPKfeqGjrxq/dwBxH9MN85g3dSAM8b3 kyle.kelley@rackspace.com
 
 ruby_version: 2.1.1
 go_version: 1.2
