@@ -7,7 +7,7 @@
   remote_user: root
   tasks:
 
-  - name: install python from apt
+  - name: install python-dev from apt
     apt: pkg=python-dev state=installed
 
   - name: install setuptools
